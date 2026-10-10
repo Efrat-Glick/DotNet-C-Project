@@ -1,0 +1,28 @@
+# Visual Studio / .NET temp files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Build and Output log files
+*.log
+
+# User-specific and environment settings
+appsettings.Development.json
+appsettings.Personal.json
+*.env
+
+# Operating system cleanups
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Test results
+[Tt]est[R]esult*/
+[Bb]uild[L]og.*/
+
+# Packages
+*.nupkg
