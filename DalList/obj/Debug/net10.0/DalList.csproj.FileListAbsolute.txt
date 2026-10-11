@@ -11,3 +11,6 @@ C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-syst
 C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\obj\Debug\net10.0\DalList.pdb
 C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\obj\Debug\net10.0\ref\DalList.dll
 C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\obj\Debug\net10.0\DalList.csproj.Up2Date
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\bin\Debug\net10.0\DalFacade.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\bin\Debug\net10.0\DalFacade.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalList\obj\Debug\net10.0\DalList.csproj.AssemblyReference.cache
